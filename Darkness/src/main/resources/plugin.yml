@@ -1,0 +1,16 @@
+name: Darkness
+version: '1.0-SNAPSHOT'
+main: studcraft.darkness.Darkness
+api-version: '1.21'
+authors: [ BlackEvil_Dragon (BlackEvilDragon, _Term1nat0r_) ]
+description: Сюжетный плагин
+commands:
+  givedarkspear:
+    description: Выдаёт Тёмное Копьё
+    usage: /givedarkspear
+  reloadDarkness:
+    description: Перезагрузка конфигурации Darkness
+    usage: /reloadDarkness
+  getrating:
+    description: "Получить средний рейтинг по предметам"
+    usage: "/getrating"

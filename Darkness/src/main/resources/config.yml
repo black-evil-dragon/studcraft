@@ -1,0 +1,20 @@
+rating:
+  key: item_rating
+  base: 50
+  max: 600
+  caps:
+    start:
+      cap: 100
+      bonus: 25
+    soft:
+      cap: 200
+      bonus: 20
+    power:
+      cap: 400
+      bonus: 10
+    hard:
+      cap: 500
+      bonus: 5
+    impossible:
+      cap: 550
+      bonus: 1
